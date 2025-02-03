@@ -1,7 +1,0 @@
-site_name: My App Documentation
-nav:
-  - Home: index.md
-  - Setup: setup.md
-  - Guide: guide.md
-theme:
-  name: material
