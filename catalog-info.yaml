@@ -1,0 +1,11 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: my-app
+  description: "Aplicação de exemplo com TechDocs"
+  annotations:
+    backstage.io/techdocs-ref: url:https://github.com/mcianci2024/codeia-techdocs
+spec:
+  type: service
+  lifecycle: production
+  owner: platform
