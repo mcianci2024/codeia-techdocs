@@ -2,10 +2,10 @@ site_name: Tech Docs
 site_description: "Documentação de práticas e referencias de tecnologia CodeIA Tech"
 
 nav:
-  - Home: index.md
-  - Setup: setup.md
-  - Architecture: architecture.md
-  - Troubleshooting: troubleshooting.md
+  - Home: "site/home/index.md"
+  - CodeIA Tech:
+    - Quem somos: "site/home/quem_somos.md"
+  - Architecture: "sites/arquitecture/index.md"
 
 theme:
   name: material
