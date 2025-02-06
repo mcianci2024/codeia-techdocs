@@ -5,7 +5,7 @@ nav:
   - Home: "site/home/index.md"
   - CodeIA Tech:
     - Quem somos: "site/home/quem_somos.md"
-  - Architecture: "sites/architecture/index.md"
+  - Architecture: "site/architecture/index.md"
 
 theme:
   name: material
